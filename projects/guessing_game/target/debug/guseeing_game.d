@@ -1,0 +1,1 @@
+/mnt/c/Users/ishiguro/Documents/PFN_HOME/Research/hello-rust/projects/guseeing_game/target/debug/guseeing_game: /mnt/c/Users/ishiguro/Documents/PFN_HOME/Research/hello-rust/projects/guseeing_game/src/main.rs
