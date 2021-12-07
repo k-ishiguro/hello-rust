@@ -1,1 +1,0 @@
-/mnt/c/Users/ishiguro/Documents/PFN_HOME/Research/hello-rust/projects/hello_cargo/target/debug/hello_cargo: /mnt/c/Users/ishiguro/Documents/PFN_HOME/Research/hello-rust/projects/hello_cargo/src/main.rs
