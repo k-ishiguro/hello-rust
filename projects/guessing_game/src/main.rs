@@ -1,6 +1,7 @@
 use std::io;  // import io libary from the standard library
 
 fn main() {
+    println!("Hey-ho");
     println!("Guess the number!");
     println!("Please input your guess.");
     let mut guess = String::new();  // declaring a MUTABLE variable (by default, immurable. String class object, new function) here "::" means a (class-)static method
